@@ -1,4 +1,5 @@
 {
+  "username": "Shakyavinit",
   "widgets": [
     {
       "widgetId": "surveillance-header",
@@ -13,7 +14,12 @@
       },
       "config": {
         "accentColor": "#55ffff",
-        "customTitle": "Surveillance Header"
+        "customTitle": "Surveillance Header",
+        "animationType": "glitch",
+        "animationPreviewKey": 3,
+        "hideBorder": false,
+        "customBio": "No touch and work it's not magic ✨ \nIt's programming and \nI am programer \nNever work without profit\n\n",
+        "modeTag": "RETRO CRT"
       },
       "locked": false,
       "visible": true,
@@ -91656,34 +91662,12 @@
       "zIndex": 13
     },
     {
-      "instanceId": "widget_1788819116702_0",
-      "widgetId": "gitfest-lineup",
-      "name": "Gitfest-lineup Widget (Cópia)",
-      "position": {
-        "x": 0,
-        "y": 1941
-      },
-      "size": {
-        "width": 800,
-        "height": 650
-      },
-      "config": {
-        "animationType": "zoom-in",
-        "animationPreviewKey": 11,
-        "customTitle": "id vinit shakya",
-        "textColor": "#800080"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 14
-    },
-    {
       "instanceId": "widget_1788819137479_0",
       "widgetId": "gitfest-lineup",
       "name": "Gitfest-lineup Widget (Cópia)",
       "position": {
         "x": 0,
-        "y": 1941
+        "y": 1925
       },
       "size": {
         "width": 800,
@@ -91704,11 +91688,11 @@
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget",
       "position": {
-        "x": 502,
-        "y": 296
+        "x": 580,
+        "y": 304
       },
       "size": {
-        "width": 256,
+        "width": 210,
         "height": 56
       },
       "config": {
@@ -91743,11 +91727,11 @@
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget (Cópia)",
       "position": {
-        "x": 494,
-        "y": 248
+        "x": 584,
+        "y": 256
       },
       "size": {
-        "width": 256,
+        "width": 200,
         "height": 76
       },
       "config": {
@@ -91781,8 +91765,8 @@
       "widgetId": "ascii-art",
       "name": "Ascii-art Widget",
       "position": {
-        "x": 272,
-        "y": 2208
+        "x": 260,
+        "y": 2176
       },
       "size": {
         "width": 280,
@@ -112102,6 +112086,27 @@
       "locked": false,
       "visible": true,
       "zIndex": 18
+    },
+    {
+      "instanceId": "widget_1788823344528",
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 0,
+        "y": 2591
+      },
+      "size": {
+        "width": 800,
+        "height": 160
+      },
+      "config": {
+        "customBio": "often revolves around debugging quirks, confusing legacy code, \nand humorous realities of software development",
+        "customTitle": "",
+        "textAlign": "center"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 18
     }
   ],
   "globalStyles": {
@@ -112115,5 +112120,6 @@
     "themeMode": "dark",
     "templateStyle": "rugbedbugg"
   },
-  "templateId": "rugbedbugg"
+  "templateId": "rugbedbugg",
+  "profileSlug": "default"
 }

@@ -6,7 +6,7 @@
       "name": "Surveillance-header Widget",
       "position": {
         "x": 0,
-        "y": 48
+        "y": 54
       },
       "size": {
         "width": 780,
@@ -31,7 +31,7 @@
       "name": "Surveillance-telemetry Widget",
       "position": {
         "x": 10,
-        "y": 473
+        "y": 103
       },
       "size": {
         "width": 780,
@@ -51,7 +51,7 @@
       "name": "Surveillance-feeds Widget",
       "position": {
         "x": 10,
-        "y": 853
+        "y": 483
       },
       "size": {
         "width": 780,
@@ -71,7 +71,7 @@
       "name": "Surveillance-loadout Widget",
       "position": {
         "x": 10,
-        "y": 1059
+        "y": 689
       },
       "size": {
         "width": 780,
@@ -116,7 +116,7 @@
       "name": "Contribution-snake Widget",
       "position": {
         "x": 0,
-        "y": 1275
+        "y": 905
       },
       "size": {
         "width": 800,
@@ -136,7 +136,7 @@
       "name": "Pokemon-card Widget",
       "position": {
         "x": 0,
-        "y": 1533
+        "y": 1163
       },
       "size": {
         "width": 168,
@@ -259,7 +259,7 @@
       "name": "Pokemon-card Widget",
       "position": {
         "x": 168,
-        "y": 1533
+        "y": 1163
       },
       "size": {
         "width": 168,
@@ -382,7 +382,7 @@
       "name": "Pokemon-card Widget",
       "position": {
         "x": 342,
-        "y": 1533
+        "y": 1163
       },
       "size": {
         "width": 160,
@@ -505,7 +505,7 @@
       "name": "Pokemon-card Widget",
       "position": {
         "x": 490,
-        "y": 1533
+        "y": 1163
       },
       "size": {
         "width": 300,
@@ -628,7 +628,7 @@
       "name": "Ascii-text Widget",
       "position": {
         "x": 54,
-        "y": 1765
+        "y": 1395
       },
       "size": {
         "width": 392,
@@ -664,11 +664,11 @@
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget",
       "position": {
-        "x": 580,
-        "y": 304
+        "x": 0,
+        "y": 56
       },
       "size": {
-        "width": 210,
+        "width": 160,
         "height": 56
       },
       "config": {
@@ -691,7 +691,7 @@
         "animationEasing": "ease-in-out",
         "detail": "ultra",
         "cols": 150,
-        "accentColor": "#00ffff",
+        "accentColor": "#3c1616",
         "customTitle": ""
       },
       "locked": false,
@@ -703,11 +703,11 @@
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget (Cópia)",
       "position": {
-        "x": 584,
-        "y": 256
+        "x": 0,
+        "y": 0
       },
       "size": {
-        "width": 200,
+        "width": 160,
         "height": 76
       },
       "config": {
@@ -730,7 +730,7 @@
         "animationEasing": "ease-in-out",
         "detail": "ultra",
         "cols": 150,
-        "accentColor": "#00ffff"
+        "accentColor": "#212830"
       },
       "locked": false,
       "visible": true,
@@ -742,7 +742,7 @@
       "name": "Bio Widget",
       "position": {
         "x": 0,
-        "y": 1925
+        "y": 1555
       },
       "size": {
         "width": 800,
@@ -756,6 +756,107 @@
       "locked": false,
       "visible": true,
       "zIndex": 18
+    },
+    {
+      "instanceId": "widget_1788824376039",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 0,
+        "y": 1731
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header",
+        "modeTag": "RETRO CRT",
+        "secondaryColor": "#c084fc",
+        "ledColor": "#ff5555"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
+    },
+    {
+      "instanceId": "widget_1788824803649_0",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget (Cópia)",
+      "position": {
+        "x": 164,
+        "y": 0
+      },
+      "size": {
+        "width": 472,
+        "height": 112
+      },
+      "config": {
+        "customText": "Vinit Shakya",
+        "asciiFont": "block",
+        "charSpacing": 3,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          "██    ██   ████████   ██    ██   ████████   ████████           ▄█████    ██    ██    ▄████▄    ██    ██   ██    ██    ▄████▄ ",
+          "██    ██      ██      ███   ██      ██         ██             ██         ██    ██   ██    ██   ██  ▄█▀     ▀████▀    ██    ██",
+          "██    ██      ██      ██▀█  ██      ██         ██              ▀████▄    ████████   ████████   █████▄        ██      ████████",
+          " ▀████▀       ██      ██ ▀█ ██      ██         ██                   ██   ██    ██   ██    ██   ██  ▀██▄      ██      ██    ██",
+          "   ▀▀      ████████   ██   ███   ████████      ██             ██████▀    ██    ██   ██    ██   ██    ██      ██      ██    ██"
+        ],
+        "animationType": "glitch",
+        "animationPreviewKey": 2,
+        "animationDuration": 1050,
+        "animationEasing": "ease-in-out",
+        "detail": "ultra",
+        "cols": 150,
+        "accentColor": "#00ffff",
+        "customTitle": ""
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
+    },
+    {
+      "instanceId": "widget_1788824883812_0",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget (Cópia)",
+      "position": {
+        "x": 654,
+        "y": 56
+      },
+      "size": {
+        "width": 136,
+        "height": 56
+      },
+      "config": {
+        "customText": "billa",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          "███████▄ ████████ ██       ██        ▄████▄ ",
+          "██    ██    ██    ██       ██       ██    ██",
+          "███████▀    ██    ██       ██       ████████",
+          "██    ██    ██    ██       ██       ██    ██",
+          "███████▀ ████████ ████████ ████████ ██    ██"
+        ],
+        "animationType": "glitch",
+        "animationPreviewKey": 2,
+        "animationDuration": 1050,
+        "animationEasing": "ease-in-out",
+        "detail": "ultra",
+        "cols": 150,
+        "accentColor": "#183c35",
+        "customTitle": ""
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 16
     }
   ],
   "globalStyles": {

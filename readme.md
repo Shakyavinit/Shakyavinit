@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=ANUBHAV+MOHANDAS;Security+%2B+AI+Systems+%F0%9F%94%90;SAGE+%E2%80%94+Autonomous+CVE+Patching;NYX+%E2%80%94+Local+AI%2C+No+Cloud;CyberTrace+%E2%80%94+30%2B+OSINT+Sources;MIDAS+%E2%80%94+Overnight+SaaS+Builder;Systems+that+act+without+supervision." alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030712,45:071426,100:00E5FF&text=VINIT%20SHAKYA&fontColor=E6FBFF&fontSize=52&fontAlignY=38&desc=CYBERSECURITY%20%E2%80%A2%20DIGITAL%20FORENSICS%20%E2%80%A2%20AI&descAlignY=60&descSize=15&animation=fadeIn" />
+  <img width="100%" alt="Vinit Shakya — Cybersecurity, Digital Forensics and AI" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:E8FBFF,50:8BE9FD,100:00A6C8&text=VINIT%20SHAKYA&fontColor=06131D&fontSize=52&fontAlignY=38&desc=CYBERSECURITY%20%E2%80%A2%20DIGITAL%20FORENSICS%20%E2%80%A2%20AI&descAlignY=60&descSize=15&animation=fadeIn" />
+</picture>
 
-<br/>
+<h1>Hey there, I'm Vinit Shakya 👋</h1>
 
-[![Portfolio](https://img.shields.io/badge/🌐-anubhavmohandas.netlify.app-00d4ff?style=for-the-badge&logoColor=white)](https://anubhavmohandas.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavmohandas/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F97316?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14821045/anubhav-mohandas)
-[![Profile Views](https://komarev.com/ghpvc/?username=anubhavmohandas&color=7c3aed&style=for-the-badge&label=VIEWS)](https://github.com/anubhavmohandas)
+<a href="https://git.io/typing-svg">
+  <img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=760&height=55&lines=MSc+Cybersecurity+%26+Digital+Forensics;Ethical+Hacking+%7C+OSINT+%7C+Graph+Analytics;Building+TraceX+%26+AI+Investigation+Systems;Turning+digital+evidence+into+actionable+intelligence" />
+</a>
 
-<br/>
+<p>
+  <a href="https://github.com/Shakyavinit?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Shakyavinit?style=for-the-badge&logo=github&logoColor=white&labelColor=071426&color=00B8D9" /></a>
+  <a href="https://github.com/Shakyavinit/Shakyavinit/stargazers"><img alt="Profile repository stars" src="https://img.shields.io/github/stars/Shakyavinit/Shakyavinit?style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=071426&color=00E5FF" /></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Shakyavinit&style=for-the-badge&label=PROFILE+VIEWS&color=00A6C8&labelColor=071426" />
+</p>
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  I build autonomous systems.                                            │
-│  Security agents, OSINT pipelines, and local AI that investigate,       │
-│  decide, and act — without supervision.                                 │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<img width="96%" alt="Animated live cyber operations scene" src="./assets/cyber-operation-live.svg" />
 
 </div>
 
@@ -25,221 +25,113 @@
 
 ## `> whoami`
 
-```python
-class AnubhavMohandas:
-    location      = "Kerala, India"
-    active_since  = 2019
-    current_focus = ["Autonomous Security Agents", "OSINT Pipelines", "Local AI Systems"]
-    expertise     = {
-        "autonomous_ai":  ["Security Agents", "OSINT Automation", "Local LLMs"],
-        "forensics":      ["Memory Analysis", "Disk & Network Forensics", "Cyber Crime Investigation"],
-        "offensive":      ["Penetration Testing", "Payload Generation", "Exploit Research"],
-        "defensive":      ["SIEM Engineering", "Kernel-level Threat Detection", "Honeypots"],
-        "intelligence":   ["OSINT", "Threat Intelligence", "Reconnaissance", "Attribution"],
-    }
-    currently_building = "Systems that investigate, decide, and act — without supervision."
-```
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>Cybersecurity learner. Builder. Investigator in progress.</h3>
+      <p>
+        I'm pursuing an <b>MSc in Cybersecurity &amp; Digital Forensics</b> at
+        <b>IAR University</b>. I enjoy building practical systems that connect
+        security engineering, blockchain intelligence, OSINT, AI and graph analytics.
+      </p>
+      <ul>
+        <li>🔭 Building <b>TraceX</b> for evidence-backed cryptocurrency wallet attribution</li>
+        <li>🕸️ Exploring AI-powered criminal-network and entity-relationship analysis</li>
+        <li>🧪 Working with Kali Linux, Python, MERN, Neo4j and forensic workflows</li>
+        <li>🎯 Goal: become a <b>Digital Forensics Investigator</b></li>
+        <li>⚡ Principle: build responsibly, verify evidence, explain every result</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img width="300" alt="Animated Black Cat cyber companion" src="./assets/black-cat-animated.svg" />
+    </td>
+  </tr>
+</table>
 
 ---
-
-## `> ls active_systems/`
-
-> Click any system to expand ↓
-
-<details>
-<summary><b>◈ SAGE — Security Analysis &amp; Graph Engine</b> &nbsp; <img src="https://img.shields.io/badge/ACTIVE-7c3aed?style=flat-square" /></summary>
-
-<br/>
-
-CVE drops. **SAGE wakes up.**
-
-Maps your entire transitive dependency graph using **tree-sitter + NetworkX**, finds every function in the blast radius, calls Claude for a targeted patch, runs CVE-specific exploit tests to verify it, then **opens a GitHub PR automatically**.
-
-You review and merge. That's it.
-
-`tree-sitter` · `NetworkX` · `Claude API` · `GitHub API`
-
-<br/>
-</details>
-
----
-
-<details>
-<summary><b>◈ NYX — Personal AI Assistant</b> &nbsp; <img src="https://img.shields.io/badge/ACTIVE-7c3aed?style=flat-square" /></summary>
-
-<br/>
-
-Fully local. No API keys phoning home. **Voice-activated**, multi-model fallback.
-
-Speaks **Hindi / English / Hinglish / Malayalam** — because your AI should understand how you actually think.
-
-The anti-cloud AI assistant.
-
-`Local LLMs` · `Whisper` · `Python` · `Multi-model fallback`
-
-<br/>
-</details>
-
----
-
-<details>
-<summary><b>◈ MIDAS — Market Intelligence, Discovery &amp; Autonomous SaaS-builder</b> &nbsp; <img src="https://img.shields.io/badge/ACTIVE-7c3aed?style=flat-square" /></summary>
-
-<br/>
-
-Goes to sleep. Wakes you up with a **live product**.
-
-Mines **Reddit / Twitter / ProductHunt / App Store** for pain signals → validates willingness-to-pay → scaffolds **FastAPI + Supabase + Stripe** → ships to Vercel → posts to ProductHunt.
-
-Overnight. Autonomous. No human in the loop.
-
-`FastAPI` · `Supabase` · `Stripe` · `Vercel` · `Python`
-
-<br/>
-</details>
-
----
-
-<details>
-<summary><b>◈ CyberTrace — OSINT Intelligence Platform</b> &nbsp; <img src="https://img.shields.io/badge/ACTIVE-7c3aed?style=flat-square" /></summary>
-
-<br/>
-
-**One identifier in. Everything out.**
-
-| Input | Output |
-|:------|:-------|
-| `Email` | Breach history, associated accounts |
-| `BTC Address` | Wallet graph, transaction trail |
-| `Phone` | Carrier, owner, linked profiles |
-| `IP` | Geolocation, Shodan exposure |
-| `GSTIN` | Full business intelligence |
-
-**30+ sources** across surface, deep, and dark web — queried in parallel, results merged and ranked.
-
-`Python` · `Shodan API` · `30+ OSINT sources` · `Parallel querying`
-
-<br/>
-</details>
-
----
-
-<details>
-<summary><b>◈ HERMES — Hybrid Engine for Research, Memory, Execution &amp; Synthesis</b> &nbsp; <img src="https://img.shields.io/badge/ACTIVE-7c3aed?style=flat-square" /></summary>
-
-<br/>
-
-**54 open-source patterns. 20 modules. 5 layers. One install.**
-
-Built so Claude can do everything without switching contexts — research, write, remember, execute, synthesize.
-
-`Python` · `Claude API` · `MCP` · `Custom memory layer`
-
-<br/>
-</details>
-
----
-
-## `> cat shipped.txt`
-
-| Tool | What it actually does |
-|:-----|:----------------------|
-| 🔐 **GHOST** | AES-256-GCM autofill extension. Reverse-engineered IRCTC's Angular monolith for Tatkal booking. No public API used. |
-| 📄 **Nyxine** | Resume builder that never touches a server. JD keyword scoring, ATS gap analysis, AI coaching — all in-browser. |
-| 🔍 **WhoisUser** | Username recon across 100+ platforms. One query. |
-| 💣 **Secure Gen** | Payload framework — 15+ types, WAF bypass, DB-specific vectors. Ethical hacking only. |
-| 🛡️ **SIEM Exploit Detector** | Real-time APT and kernel-level exploit detection. |
-| 🕵️ **Digital Forensics Toolkit** | All-in-one investigation suite for cyber crime cases. |
-| 📊 **Enhanced CVSS Calculator** | Because the standard one isn't enough for real triage. |
-| 🕸️ **Web Honeypot** | Attacker behavior capture and analysis in real-time. |
-| 📋 **Log Analyzer** | Advanced threat detection engine. |
-
----
-
-## `> cat stack.cfg`
 
 <div align="center">
 
-**Languages & Frameworks**
+## `> cat current_missions.md`
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-00D4FF?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-7c3aed?style=for-the-badge&logo=php&logoColor=white)
-
-**AI & Autonomous Systems**
-
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-
-**Security Arsenal**
-
-![Kali](https://img.shields.io/badge/Kali_Linux-00D4FF?style=for-the-badge&logo=kali-linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F97316?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-7c3aed?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-
-**Forensics & OS**
-
-![Autopsy](https://img.shields.io/badge/Autopsy-0d1117?style=for-the-badge&logo=forensics&logoColor=00D4FF)
-![CAINE](https://img.shields.io/badge/CAINE-F97316?style=for-the-badge&logo=linux&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-7c3aed?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+| Project | Mission | Core ideas |
+|:--|:--|:--|
+| **[TraceX](https://github.com/Shakyavinit/tracex-sahyog)** | Attribute unknown crypto wallets to likely VASPs using evidence, graph paths and transparent confidence | Blockchain APIs · OSINT · Explainable scoring |
+| **AI Criminal Network Analysis** | Extract entities and uncover hidden relationships across investigation records | NLP · Entity resolution · Neo4j · Graph analytics |
+| **Onion Intelligence Scanner** | Flag high-risk dark-web content for analyst review | Tor research · Keyword intelligence · Dashboarding |
 
 </div>
 
 ---
 
-## `> tail -f analytics.log`
+<div align="center">
 
-<!-- <div align="center"> -->
+## `> ./load_tech_stack.sh`
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=anubhavmohandas&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" /> -->
+### Languages & Development
 
-<br/><br/>
+<img alt="Languages and development tools" src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,js,html,css,bootstrap,react,nodejs,dotnet&perline=12" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavmohandas&bg_color=0d1117&color=00D4FF&line=7c3aed&point=F97316&area_color=7c3aed&area=true&hide_border=true&custom_title=CONTRIBUTION+TIMELINE" alt="Activity Graph" />
+### Security, Data & Infrastructure
+
+<img alt="Security, databases and infrastructure" src="https://skillicons.dev/icons?i=kali,linux,git,github,mongodb,mysql,firebase,docker,vscode,bash&perline=10" />
 
 </div>
 
 ---
+
+<div align="center">
+
+## `> ./scan_github_activity.sh`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shakyavinit&show_icons=true&hide_border=true&bg_color=030712&title_color=00E5FF&icon_color=00B8D9&text_color=C9F7FF&ring_color=00E5FF" />
+  <img height="180" alt="Vinit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Shakyavinit&show_icons=true&hide_border=true&bg_color=EFFFFF&title_color=007C91&icon_color=00A6C8&text_color=102A33&ring_color=00A6C8" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Shakyavinit&hide_border=true&background=030712&ring=00E5FF&fire=00B8D9&currStreakLabel=00E5FF&sideLabels=C9F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7DD3FC" />
+  <img height="180" alt="Vinit's GitHub streak" src="https://streak-stats.demolab.com?user=Shakyavinit&hide_border=true&background=EFFFFF&ring=00A6C8&fire=007C91&currStreakLabel=007C91&sideLabels=164E63&currStreakNum=06131D&sideNums=06131D&dates=0E7490" />
+</picture>
+
+<img width="96%" alt="Vinit's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shakyavinit&bg_color=030712&color=C9F7FF&title_color=00E5FF&line=00B8D9&point=FFFFFF&area_color=00E5FF&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `> ./release_the_snake.sh`
+
+<!-- Generated by .github/workflows/snake.yml. After merging, run the action once to create the output branch. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shakyavinit/Shakyavinit/output/github-contribution-grid-snake-dark.svg" />
+  <img width="96%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Shakyavinit/Shakyavinit/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
 
 ## `> ./connect.sh`
 
-<div align="center">
+<a href="https://github.com/Shakyavinit"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-071426?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="mailto:shakyavinit033@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Let's_Talk-071426?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
 
-```bash
-$ curl -X GET https://anubhavmohandas.netlify.app
-→ Security-first. Autonomous. Zero toolchain overhead.
-```
+<br/><br/>
 
-<br/>
+<code>Open to cybersecurity projects, responsible research and meaningful collaborations.</code>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00D4FF?style=for-the-badge&logo=netlify&logoColor=black)](https://anubhavmohandas.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavmohandas/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F97316?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14821045/anubhav-mohandas)
+<br/><br/>
 
-<br/>
+<sub>🐈‍⬛ Night Watch online · Black Swan cyber operations</sub>
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│  "Offense informs defense. Know your adversary."                     │
-│                                                                      │
-│  Open for collaboration on security research & autonomous AI         │
-│  With greater power comes greater responsibility                     │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-![](https://img.shields.io/badge/security-first-00D4FF?style=for-the-badge)
-![](https://img.shields.io/badge/autonomous-systems-7c3aed?style=for-the-badge)
-![](https://img.shields.io/badge/open_source-forever-F97316?style=for-the-badge)
-
-<sub>security · forensics · autonomous systems · 2019 → now</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:030712,45:071426,100:00E5FF" />
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:E8FBFF,50:8BE9FD,100:00A6C8" />
+</picture>
 
 </div>

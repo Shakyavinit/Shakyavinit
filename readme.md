@@ -1,174 +1,69 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:071426,70:082F49,100:00E5FF&text=VINIT%20SHAKYA&fontColor=E6FBFF&fontSize=52&fontAlignY=38&desc=%E2%9A%A1%20DIGITAL%20FORENSICS%20%7C%20CYBERSECURITY%20%7C%20AI%20INTELLIGENCE%20%E2%9A%A1&descAlignY=60&descSize=16&animation=fadeIn" alt="Vinit Shakya"/>
+<!-- ANIMATED HEADER CAPSULE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:071426,60:082F49,100:00E5FF&text=VINIT%20SHAKYA&fontColor=E6FBFF&fontSize=52&fontAlignY=38&desc=%E2%9A%A1%20CYBERSECURITY%20%E2%80%A2%20DIGITAL%20FORENSICS%20%E2%80%A2%20AI%20%E2%9A%A1&descAlignY=60&descSize=16&animation=twinkling" alt="Vinit Shakya Header"/>
 
-<!-- TYPING TERMINAL ANIMATION -->
+<!-- ANIMATED TYPING TERMINAL -->
 <a href="https://github.com/Shakyavinit">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=920&height=55&lines=%24+init+forensic-core+--mode%3Dstealth;%5B%E2%9C%93%5D+DIGITAL+EVIDENCE+ENGINE+ACTIVE;%5BSCAN%5D+CORRELATING+ARTIFACTS+%26+MALICIOUS+INDICATORS;%5BTRACE%5D+DECONSTRUCTING+BLOCKCHAIN+NETWORKS;%5BAI%5D+GRAPH+ENTITY+RESOLUTION+PIPELINE+ONLINE;%5BIDENTITY%5D+FUTURE+DIGITAL+FORENSICS+EXPERT" alt="Terminal Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=600&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%3E_INITIALIZING+CYBER+FORENSIC+NODE...;%3E_DECONSTRUCTING+BINARY+EVIDENCE;%3E_MAPPING+CRYPTO+TRANSACTION+GRAPHS;%3E_NEO4J+AI+ENTITY+RESOLUTION+ONLINE;%3E_TRACE-X+ACTIVE+%E2%80%A2+SECURITY+CLEARANCE+GRANTED" alt="Typing Animation"/>
 </a>
 
 <br/>
 
 <!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/NODE_STATUS-ONLINE-00E5FF?style=for-the-badge&logo=gnubash&logoColor=020617&labelColor=020617"/>
-<img src="https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_4_FORENSICS-7C3AED?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=020617"/>
-<img src="https://img.shields.io/badge/TARGET-CYBER_FORENSICS_SPECIALIST-00B8D9?style=for-the-badge&logo=target&logoColor=white&labelColor=020617"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-F97316?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=020617"/>
-
-</div>
-
----
-
-### `root@forensics-node:~# whoami --extended`
-
-```text
-┌──(vinit㉿forensic-terminal)-[~]
-└─$ cat /etc/forensic_identity.conf
-─────────────────────────────────────────────────────────────────────────────
-  OPERATOR      :: Vinit Shakya
-  DESIGNATION   :: Cybersecurity & Digital Forensics Researcher
-  ACADEMICS     :: Institute of Advanced Research (IAR), Gandhinagar
-  FIELD OBJECT  :: Digital Forensics Investigation & Cyber Threat Intelligence
-
-  CORE DISCIPLINES ::
-    ├── [01] Digital Forensics & Incident Response (DFIR)
-    ├── [02] Blockchain Intelligence & Cryptocurrency Trace
-    ├── [03] AI & Graph-Powered Criminal Network Mapping
-    ├── [04] OSINT & Reconnaissance Intelligence
-    ├── [05] Disk, Memory & Network Packet Extraction
-    └── [06] Reverse Engineering & Artifact Analysis
-
-  SYSTEM HEALTH :: [████████████████████████░░] 92% OPTIMIZED
-  STATUS        :: INVESTIGATING • BUILDING TOOLS • RESEARCHING
-─────────────────────────────────────────────────────────────────────────────
-```
-
-> 🎯 *"I don't just detect what happened. I reconstruct **how**, uncover **why**, and pinpoint **who** — backed by immutable digital evidence."*
-
----
-
-<div align="center">
-
-### `root@forensics-node:~# ./view_mission_dossiers.sh`
-
-</div>
-
-```text
-================================================================================
-                       ACTIVE INVESTIGATION MISSIONS
-================================================================================
-```
-
-#### 🔎 `[CASE FILE 01] TRACE-X :: Blockchain Forensics Engine`
-> **Objective**: Evidence-backed cryptocurrency investigation and anomalous flow detection.
-
-```text
-  [INPUT DATA] ──► [ WALLET / TX / CHAIN LOGS ]
-                          │
-                          ▼
-            ┌───────────────────────────┐
-            │      TRACE-X CORE         │
-            ├───────────────────────────┤
-            │  • Entity Clustering      │
-            │  • Transaction Topology   │
-            │  • OSINT Attribution      │
-            │  • Confidence Scoring     │
-            └─────────────┬─────────────┘
-                          │
-                          ▼
-        [FORENSIC EVIDENCE & REASONING GRAPH]
-```
-- **Capabilities**: Unmasks mixer patterns, evaluates hops, generates investigative confidence scores.
-- **Tech Stack**: `Python` · `Web3/Blockchain APIs` · `Graph Analytics` · `OSINT` · `Neo4j`
-
----
-
-#### 🧠 `[CASE FILE 02] AI CRIMINAL NETWORK MAPPING ENGINE`
-> **Objective**: Multi-source entity resolution and hidden relationship discovery using NLP and Graph AI.
-
-```text
-  [RAW ARTIFACTS] ──► [ ENTITY EXTRACTION ] ──► [ ENTITY RESOLUTION ]
-                                                       │
-                                                       ▼
-  [CRIMINAL CONTEXT MAP] ◄── [ GRAPH ANALYTICS ] ◄── [ GRAPH DBN (Neo4j) ]
-```
-- **Capabilities**: Resolves identities across alias emails, burner devices, crypto wallets, and encrypted communication artifacts.
-- **Tech Stack**: `Python` · `NLP` · `Entity Resolution` · `Neo4j` · `Graph Theory` · `FastAPI`
-
----
-
-#### 🕸️ `[CASE FILE 03] ONION INTEL SCANNER`
-> **Objective**: Automated dark-web threat reconnaissance and analyst-guided risk triage.
-
-```text
-  [TOR / ONION SITES] ──► [ CONTENT FILTER ] ──► [ THREAT REGEX / NLP ] ──► [ INTEL REPORT ]
-```
-- **Capabilities**: Monitors cyber threat signals, darknet markets, credential leaks, and risk indicators without noisy false alarms.
-- **Tech Stack**: `Tor Proxy` · `Python` · `OSINT Threat Feeds` · `Regex Signatures`
-
----
-
-<div align="center">
-
-### `root@forensics-node:~# ./display_arsenal.sh --all`
-
-### 🛡️ DEFENSIVE & DIGITAL FORENSICS
-<img src="https://img.shields.io/badge/Disk%20Forensics-00E5FF?style=for-the-badge&logo=target&logoColor=020617&labelColor=020617"/>
-<img src="https://img.shields.io/badge/Memory%20Forensics-00B8D9?style=for-the-badge&logo=ram&logoColor=white&labelColor=020617"/>
-<img src="https://img.shields.io/badge/Network%20Forensics-7C3AED?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=020617"/>
-<img src="https://img.shields.io/badge/OSINT%20Research-F97316?style=for-the-badge&logo=search&logoColor=white&labelColor=020617"/>
-<img src="https://img.shields.io/badge/Artifact%20Analysis-10B981?style=for-the-badge&logo=file-search&logoColor=white&labelColor=020617"/>
-<img src="https://img.shields.io/badge/Incident%20Response-E11D48?style=for-the-badge&logo=shield-alert&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&logo=gnubash&logoColor=020617&labelColor=020617"/>
+<img src="https://img.shields.io/badge/CLEARANCE-FORENSIC%20EXPERT-7C3AED?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/FOCUS-DFIR%20%2B%20AI-00B8D9?style=for-the-badge&logo=target&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/STATUS-HACKING%20THE%20EVIDENCE-10B981?style=for-the-badge&logo=powershell&logoColor=white&labelColor=020617"/>
 
 <br/><br/>
 
-### ⚙️ SECURITY OS & PLATFORMS
+<!-- ANIMATED CYBER RADAR HUD -->
+<img width="100%" src="https://raw.githubusercontent.com/Shakyavinit/Shakyavinit/main/assets/cyber_radar.svg" alt="Animated Cyber Radar"/>
+
+<br/><br/>
+
+<!-- ANIMATED HACKER VISUAL DUO -->
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker Terminal" style="border-radius: 12px;"/>
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Matrix Code Stream" style="border-radius: 12px;"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ANIMATED ARSENAL DIVIDER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=800&height=40&lines=%E2%9A%94%EF%B8%8F+DEPLOYED+WEAPONRY+%26+SECURITY+STACK+%E2%9A%94%EF%B8%8F;%5BOS%5D+KALI+%E2%80%A2+LINUX+%E2%80%A2+DOCKER+%E2%80%A2+BASH;%5BDEV%5D+PYTHON+%E2%80%A2+C%2B%2B+%E2%80%A2+NEO4J+%E2%80%A2+NODEJS" alt="Arsenal Header"/>
+
+<br/>
+
+<!-- SKILL ICONS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,docker,git,github&perline=10" alt="OS and Tools"/>
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,docker,git,github,python,c,cpp,cs,java&perline=12" alt="Skills Row 1"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=neo4j,postgres,mongodb,mysql,firebase,js,nodejs,react,fastapi,html,css&perline=12" alt="Skills Row 2"/>
 </p>
 
-### 💻 CORE PROGRAMMING & SCRIPTING
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,php,bash&perline=10" alt="Languages"/>
-</p>
+<br/>
 
-### 🗄️ FORENSIC DATA & GRAPH STORAGE
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=neo4j,postgres,mongodb,mysql,firebase&perline=10" alt="Databases"/>
-</p>
+<!-- SPECIALTY BADGES -->
+<img src="https://img.shields.io/badge/Digital%20Forensics-00E5FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Memory%20Forensics-00B8D9?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Blockchain%20Intel-7C3AED?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/OSINT%20Recon-F97316?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Network%20Security-10B981?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Threat%20Hunting-E11D48?style=for-the-badge&labelColor=020617"/>
 
-### 🧠 INTELLIGENCE & FRAMEWORKS
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,fastapi,dotnet,html,css&perline=10" alt="Frameworks"/>
-</p>
+<br/><br/>
 
-</div>
-
----
-
-### `root@forensics-node:~# cat forensic_toolkit.spec`
-
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                       DFIR TACTICAL TOOLKIT CHEATSHEET                      │
-├─────────────────────────┬───────────────────────────────────────────────────┤
-│ DOMAIN                  │ ARTIFACTS / TACTICS / METHODOLOGIES               │
-├─────────────────────────┼───────────────────────────────────────────────────┤
-│ 🖥️  Disk & File Systems │ MFT, Registry Hives, LNK Files, Prefetch, EventLogs│
-│ 🧠  Memory Analysis     │ Volatile RAM Dumps, Process Trees, Injected DLLs  │
-│ 🌐  Network Extraction  │ PCAP Analysis, Protocol Decoders, Beacon Detection│
-│ 🔎  OSINT & Intel       │ Maltego, Shodan, Recon-ng, Certificate Transp.   │
-│ ⛓️  Crypto Forensics    │ Chainalysis Methods, UTXO Tracking, Smart Contract│
-│ 📊  Graph Intelligence  │ Cypher (Neo4j), Node Centrality, Cluster Analysis │
-└─────────────────────────┴───────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-### `root@forensics-node:~# ./fetch_telemetry.sh`
+<!-- LIVE TELEMETRY & STATS -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&height=40&lines=%F0%9F%93%A1+LIVE+GITHUB+INTELLIGENCE+TELEMETRY+%F0%9F%93%A1" alt="Telemetry Header"/>
 
 <table border="0">
   <tr>
@@ -189,67 +84,31 @@
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shakyavinit&bg_color=020617&color=C9F7FF&line=00E5FF&point=FFFFFF&area_color=00B8D9&area=true&hide_border=true&custom_title=INVESTIGATION%20ACTIVITY%20CHRONOLOGY" alt="Activity Graph"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shakyavinit&bg_color=020617&color=C9F7FF&line=00E5FF&point=FFFFFF&area_color=00B8D9&area=true&hide_border=true&custom_title=FORENSIC%20PULSE%20TIMELINE" alt="Activity Graph"/>
 
 <br/><br/>
 
-<!-- SNAKE CONTRIBUTION VISUALIZER -->
-### `> ./run_snake_tracer.bin`
+<!-- ANIMATED SNAKE TRACER -->
 <img width="96%" src="https://raw.githubusercontent.com/Shakyavinit/Shakyavinit/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
-</div>
+<br/><br/>
 
----
-
-### `root@forensics-node:~# cat /etc/investigation_dogma.txt`
-
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                       CORE INVESTIGATION PRINCIPLES                         │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│   [01] EVIDENCE OVER ASSUMPTION                                             │
-│        If the artifact isn't verified in the bitstream, it's speculation.   │
-│                                                                             │
-│   [02] LOCARD'S EXCHANGE PRINCIPLE                                          │
-│        Every interaction in cyberspace leaves a persistent digital trace.   │
-│                                                                             │
-│   [03] CHAIN OF CUSTODY INTEGRITY                                           │
-│        Unbroken provenance is the barrier between noise and legal truth.    │
-│                                                                             │
-│   [04] DEFENSIVE MINDSET BY OFFENSIVE INSIGHT                               │
-│        You cannot inspect what you cannot anticipate. Reverse the threat.   │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-### `root@forensics-node:~# ./open_secure_channel.sh`
-
-```text
-╔═════════════════════════════════════════════════════════════════════════════╗
-║                      SECURE ENCRYPTED COMMS UPLINK                          ║
-║        Looking for CTF Squads • Forensics Research • Open Security Collabs  ║
-╚═════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
+<!-- SECURE UPLINK -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%3E_SECURE+TRANSMISSION+UPLINK+READY" alt="Uplink Header"/>
 
 <a href="https://github.com/Shakyavinit">
-  <img src="https://img.shields.io/badge/GitHub-Profile-00E5FF?style=for-the-badge&logo=github&logoColor=020617&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=020617"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=35&lines=%22EVERY+DIGITAL+STEP+LEAVES+AN+ECHO.+I+FOLLOW+THE+SIGNAL.%22" alt="Quote Footer"/>
+<!-- CLOSING ANIMATION & FOOTER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=35&lines=%22EVIDENCE+IS+THE+SIGNAL.+NO+ASSUMPTIONS.+ONLY+INVESTIGATION.%22;%22CYBER+FORENSICS+NODE%3A+ALWAYS+MONITORING.%22" alt="Closing Quote"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,40:082F49,100:020617&animation=fadeIn" alt="Footer Waving"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00E5FF,40:082F49,100:020617&animation=fadeIn" alt="Footer"/>
 
-<sub>🛡️ Digital Forensics • 🕵️ OSINT • ⛓️ Blockchain Tracking • 🧠 Graph Analytics • 🔐 Cyber Defense</sub>
+<sub>🔐 DIGITAL FORENSICS • 🕵️ OSINT • ⛓️ BLOCKCHAIN INTELLIGENCE • 🧠 GRAPH AI</sub>
 
 </div>

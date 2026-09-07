@@ -1,7 +1,7 @@
-<a href="https://gitascii.com">
+<div align="center">
   <img
-    src="https://gitascii.com/api/Shakyavinit/Shakyavinit?v=1788820576456"
-    alt="GitAscii Widget"
+    src="https://gitascii.com/api/Shakyavinit?template=surveillance"
+    alt="Surveillance Console - Vinit Shakya"
     width="100%"
   />
-</a>
+</div>

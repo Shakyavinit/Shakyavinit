@@ -55,7 +55,7 @@
       },
       "size": {
         "width": 780,
-        "height": 190
+        "height": 336
       },
       "config": {
         "accentColor": "#55ffff",
@@ -111,32 +111,12 @@
       "instanceId": "widget_1788815296248_3"
     },
     {
-      "instanceId": "widget_1788815358790",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 0,
-        "y": 905
-      },
-      "size": {
-        "width": 800,
-        "height": 242
-      },
-      "config": {
-        "theme": "dark",
-        "customTitle": "Life Gols"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 5
-    },
-    {
       "instanceId": "widget_1788816267636",
       "widgetId": "pokemon-card",
       "name": "Pokemon-card Widget",
       "position": {
-        "x": 0,
-        "y": 1163
+        "x": 12,
+        "y": 904
       },
       "size": {
         "width": 168,
@@ -258,8 +238,8 @@
       "widgetId": "pokemon-card",
       "name": "Pokemon-card Widget",
       "position": {
-        "x": 168,
-        "y": 1163
+        "x": 180,
+        "y": 904
       },
       "size": {
         "width": 168,
@@ -381,8 +361,8 @@
       "widgetId": "pokemon-card",
       "name": "Pokemon-card Widget",
       "position": {
-        "x": 342,
-        "y": 1163
+        "x": 354,
+        "y": 904
       },
       "size": {
         "width": 160,
@@ -504,8 +484,8 @@
       "widgetId": "pokemon-card",
       "name": "Pokemon-card Widget",
       "position": {
-        "x": 490,
-        "y": 1163
+        "x": 500,
+        "y": 904
       },
       "size": {
         "width": 300,
@@ -627,8 +607,8 @@
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget",
       "position": {
-        "x": 54,
-        "y": 1395
+        "x": 68,
+        "y": 1144
       },
       "size": {
         "width": 392,
@@ -737,44 +717,26 @@
       "zIndex": 17
     },
     {
-      "instanceId": "widget_1788823344528",
-      "widgetId": "bio",
-      "name": "Bio Widget",
-      "position": {
-        "x": 0,
-        "y": 1555
-      },
-      "size": {
-        "width": 800,
-        "height": 160
-      },
-      "config": {
-        "customBio": "often revolves around debugging quirks, confusing legacy code, \nand humorous realities of software development",
-        "customTitle": "",
-        "textAlign": "center"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 18
-    },
-    {
       "instanceId": "widget_1788824376039",
       "widgetId": "surveillance-header",
       "name": "Surveillance-header Widget",
       "position": {
         "x": 0,
-        "y": 1731
+        "y": 1720
       },
       "size": {
         "width": 780,
         "height": 417
       },
       "config": {
-        "accentColor": "#55ffff",
+        "accentColor": "#e6fbfb",
         "customTitle": "Surveillance Header",
         "modeTag": "RETRO CRT",
-        "secondaryColor": "#c084fc",
-        "ledColor": "#ff5555"
+        "secondaryColor": "#8a8a8a",
+        "ledColor": "#ffffff",
+        "backgroundColor": "transparent",
+        "hideBorder": false,
+        "textColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -857,19 +819,180 @@
       "locked": false,
       "visible": true,
       "zIndex": 16
+    },
+    {
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget (Cópia) (Cópia)",
+      "position": {
+        "x": 5,
+        "y": 1280
+      },
+      "size": {
+        "width": 790,
+        "height": 488
+      },
+      "config": {
+        "selectedTechs": [
+          "linux",
+          "docker",
+          "kubernetes",
+          "aws",
+          "git",
+          "github",
+          "bash",
+          "python",
+          "graphql",
+          "r",
+          "elixir",
+          "solidity",
+          "dart",
+          "ruby",
+          "swift",
+          "kotlin",
+          "c",
+          "java",
+          "php",
+          "cs",
+          "cpp",
+          "go",
+          "css",
+          "py",
+          "rust",
+          "html",
+          "ts",
+          "js",
+          "clojure",
+          "haskell",
+          "lua",
+          "scala",
+          "zig",
+          "julia",
+          "ocaml",
+          "perl",
+          "erlang",
+          "nim",
+          "matlab",
+          "react",
+          "nextjs",
+          "vue",
+          "nuxt",
+          "angular",
+          "svelte",
+          "tailwind",
+          "remix",
+          "recoil",
+          "jquery",
+          "electron",
+          "zustand",
+          "vite",
+          "astro",
+          "solidjs",
+          "bootstrap",
+          "reactnative",
+          "redux",
+          "threejs",
+          "flutter",
+          "sass",
+          "mui",
+          "chakra",
+          "pinia",
+          "styledcomponents",
+          "vuetify",
+          "alpinejs",
+          "webpack",
+          "babel",
+          "gulp",
+          "rollup",
+          "nodejs",
+          "django",
+          "fastapi",
+          "express",
+          "nest",
+          "flask",
+          "spring",
+          "laravel",
+          "postgres",
+          "redis",
+          "mysql",
+          "mongodb",
+          "prisma",
+          "firebase",
+          "supabase",
+          "bun",
+          "deno",
+          "trpc",
+          "rails",
+          "sqlite",
+          "mariadb",
+          "dynamodb",
+          "neo4j",
+          "cassandra",
+          "couchdb",
+          "symfony",
+          "hibernate",
+          "netlify",
+          "gcp",
+          "azure",
+          "vercel",
+          "figma",
+          "postman",
+          "vscode",
+          "gitlab",
+          "koa",
+          "terraform",
+          "vitest",
+          "storybook",
+          "cloudflare",
+          "githubactions",
+          "playwright",
+          "cypress",
+          "jest",
+          "jenkins",
+          "ansible",
+          "pnpm",
+          "grafana",
+          "npm",
+          "apache",
+          "nginx",
+          "yarn",
+          "insomnia",
+          "sentry",
+          "prometheus",
+          "heroku",
+          "notion",
+          "circleci",
+          "sonarqube",
+          "selenium",
+          "bitbucket",
+          "blender",
+          "travis"
+        ],
+        "perLine": 16,
+        "showTitle": false,
+        "hideBorder": true,
+        "backgroundColor": "transparent"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 16,
+      "instanceId": "widget_1790286423314_0"
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#050308",
+    "backgroundColor": "#0d1117",
     "textColor": "#e5e5e5",
     "accentColor": "#f0f0f0",
     "borderColor": "#f0f0f0",
-    "fontFamily": "'JetBrains Mono', monospace",
-    "borderRadius": 27,
+    "fontFamily": "Plus Jakarta Sans",
+    "borderRadius": 17,
     "padding": 24,
     "themeMode": "dark",
     "templateStyle": "rugbedbugg"
   },
   "templateId": "rugbedbugg",
-  "profileSlug": "default"
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1790286660464_eoxoj",
+    "updatedAt": "2026-09-24T21:51:02.461Z"
+  }
 }
